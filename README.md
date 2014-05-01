@@ -15,5 +15,7 @@ Current Plans:
 + Creation of CMS Installer
 
 Update Log:
+
+Version: A 0.0.1
 + First Commit
 + Added Native Framework
