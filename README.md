@@ -7,6 +7,7 @@ Description:
 PHP Base CMS with Native Framework
 
 Author: Macky Macavinta
+
 Constributors: Oliver Ong aka[blockhead123]
 
 Current Plans:
