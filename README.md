@@ -1,7 +1,7 @@
 Lazy Susie
 ==========
 
-Version: Alpha 0.0.1
+Version: v0.0.1-alpha
 
 Description:
 PHP Base CMS with Native Framework
@@ -16,6 +16,6 @@ Current Plans:
 
 Update Log
 ==========
-Version: A 0.0.1
+Version: v0.0.1-alpha
 + First Commit
 + Added Native Framework
